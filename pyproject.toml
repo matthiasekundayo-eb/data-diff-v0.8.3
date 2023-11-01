@@ -6,7 +6,7 @@ authors = ["Datafold <data-diff@datafold.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/datafold/data-diff"
-documentation = ""
+documentation = "https://github.com/datafold/data-diff/tree/master/docs"
 classifiers = [
     "Intended Audience :: Developers",
     "Intended Audience :: Information Technology",
